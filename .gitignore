@@ -1,0 +1,16 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Debug files
+*.pdb
+*.ilk
+
+# IDE folders
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
